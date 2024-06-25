@@ -1,23 +1,16 @@
-# Título do Projeto Extremamente Aesthetic ;)
+# CSS Ronin
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Ebook sobre conceitos de CSS
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+MidJoney, ChatGPT
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+A ideia e visualizar a ajuda da IA para acelerar a expressão de ideias e ajudar na absorção de conteúdo e conhecimento.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
-
-## 🚀 Resultados
-Apresente os resultados do seu projeto
-
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
+https://www.linkedin.com/feed/update/urn:li:activity:7201677939531231234/
 
 ### Exemplos e Insigths
 
